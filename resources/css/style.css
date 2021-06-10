@@ -30,3 +30,10 @@ main {
     font-size: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+
+.footer {
+    color: grey;
+    text-align: right;
+}
